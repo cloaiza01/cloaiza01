@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @cloaiza01
+- 👀 Im here to learn Git and GitHub
